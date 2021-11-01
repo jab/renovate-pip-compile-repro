@@ -1,1 +1,2 @@
-sphinx
+# add dummy ">= 0" constraint to work around limitations in Renovate:
+sphinx >= 0
